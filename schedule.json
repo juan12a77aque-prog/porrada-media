@@ -1,14 +1,54 @@
 {
-  "zona_horaria": "America/Argentina/Buenos_Aires",
-  "estado": "BORRADOR_PENDIENTE_DE_APROBACION",
-  "historias": [
-    {"fecha": "2026-10-15", "hora": "13:41", "archivo": "stories/2026-10-15_motivacional.png", "estado": "publicada"},
-    {"fecha": "2026-10-19", "hora": "10:00", "archivo": "stories/2026-10-19_lunes.png", "estado": "pendiente"},
-    {"fecha": "2026-10-20", "hora": "10:00", "archivo": "stories/2026-10-20_martes.png", "estado": "pendiente"},
-    {"fecha": "2026-10-21", "hora": "10:00", "archivo": "stories/2026-10-21_miercoles.png", "estado": "pendiente"},
-    {"fecha": "2026-10-21", "hora": "13:00", "archivo": "stories/2026-10-21_motivacional_primera-clase.png", "estado": "pendiente"},
-    {"fecha": "2026-10-22", "hora": "10:00", "archivo": "stories/2026-10-22_jueves.png", "estado": "pendiente"},
-    {"fecha": "2026-10-23", "hora": "10:00", "archivo": "stories/2026-10-23_viernes.png", "estado": "pendiente"},
-    {"fecha": "2026-10-24", "hora": "11:00", "archivo": "stories/2026-10-24_motivacional_sin-experiencia.png", "estado": "pendiente"}
-  ]
+ "zona_horaria": "America/Argentina/Buenos_Aires",
+ "estado": "BORRADOR_PENDIENTE_DE_APROBACION",
+ "historias": [
+  {
+   "fecha": "2026-10-15",
+   "hora": "13:41",
+   "archivo": "stories/2026-10-15_motivacional.png",
+   "estado": "publicada"
+  },
+  {
+   "fecha": "2026-10-19",
+   "hora": "10:00",
+   "archivo": "stories/2026-10-19_lunes.png",
+   "estado": "publicada"
+  },
+  {
+   "fecha": "2026-10-20",
+   "hora": "10:00",
+   "archivo": "stories/2026-10-20_martes.png",
+   "estado": "publicada"
+  },
+  {
+   "fecha": "2026-10-21",
+   "hora": "10:00",
+   "archivo": "stories/2026-10-21_miercoles.png",
+   "estado": "publicada"
+  },
+  {
+   "fecha": "2026-10-21",
+   "hora": "13:00",
+   "archivo": "stories/2026-10-21_motivacional_primera-clase.png",
+   "estado": "pendiente"
+  },
+  {
+   "fecha": "2026-10-22",
+   "hora": "10:00",
+   "archivo": "stories/2026-10-22_jueves.png",
+   "estado": "pendiente"
+  },
+  {
+   "fecha": "2026-10-23",
+   "hora": "10:00",
+   "archivo": "stories/2026-10-23_viernes.png",
+   "estado": "pendiente"
+  },
+  {
+   "fecha": "2026-10-24",
+   "hora": "11:00",
+   "archivo": "stories/2026-10-24_motivacional_sin-experiencia.png",
+   "estado": "pendiente"
+  }
+ ]
 }
