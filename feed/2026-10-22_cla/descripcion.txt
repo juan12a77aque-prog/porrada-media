@@ -9,8 +9,8 @@ Hoy te contamos de qué se trata el CLA (Constraints-Led Approach), un enfoque d
 📌 Hay tres tipos de restricciones: las de la persona, las de la tarea y las del entorno.
 
 🥋 Ejemplos en el tatami:
-• Tortuga: arriba gana quien llega a la espalda; abajo, quien recupera guardia o se para. El profe guía y vos descubrís.
-• Pasa y raspa: el de arriba gana pasando y el de abajo gana raspando. Rounds definidos: el que concreta se queda y el que sale paga una penalidad.
+• Específico de tortuga: arriba gana quien llega a la espalda; abajo, quien recupera guardia o se para. El profe guía y vos descubrís.
+• Específico de pasa y raspa: el de arriba gana pasando y el de abajo gana raspando. Luchas específicas: el que concreta se queda y el que sale paga una penalidad.
 
 No reemplaza la técnica: la complementa con práctica más parecida a una lucha de verdad.
 
